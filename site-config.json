@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "siteTitle": "NVQ Assignment Help | Portfolio Evidence & Reflective Accounts",
+    "siteDescription": "Professional NVQ portfolio evidence help for Level 1–5 students. Reflective accounts, personal statements, witness testimony guidance. Trusted by 10,000+ candidates.",
+    "siteUrl": "https://nvq-assignment-help.co.uk",
+    "faviconPath": "/favicon.ico",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#134E4A",
+    "primaryDark": "#0C3633",
+    "accent": "#EA580C",
+    "accentDark": "#C2460A",
+    "accentLight": "#FFEDD5",
+    "gold": "#F59E0B",
+    "goldDark": "#D97706",
+    "textBase": "#1A1A2E",
+    "textMuted": "#6B7280",
+    "bgWhite": "#FFFFFF",
+    "bgLight": "#F3F4F6",
+    "bgDark": "#134E4A",
+    "borderLight": "#E5E7EB",
+    "starColor": "#F59E0B",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "'Inter', sans-serif"
+  },
+  "header": {
+    "logoText": "NVQ Help",
+    "logoHref": "/",
+    "navLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "About", "href": "#about" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "ctaButton": {
+      "label": "Get Help Now",
+      "href": "#contact"
+    }
+  },
+  "hero": {
+    "headingLine1": "Expert",
+    "headingHighlight": "NVQ Portfolio Help",
+    "headingLine3": "For Every Level",
+    "subtext": "Struggling with NVQ portfolio evidence, reflective accounts, or personal statements? Our NVQ specialists deliver competency-aligned evidence that meets assessor requirements across all levels.",
+    "primaryCta": {
+      "label": "Get Your Portfolio Done",
+      "href": "#contact"
+    },
+    "secondaryCta": {
+      "label": "See how it works",
+      "href": "#how-it-works"
+    },
+    "badges": [
+      { "icon": "✓", "text": "100% Plagiarism Free" },
+      { "icon": "✓", "text": "On-Time Delivery" },
+      { "icon": "✓", "text": "Expert NVQ Writers" },
+      { "icon": "✓", "text": "Free Revisions" },
+      { "icon": "✓", "text": "Confidential & Secure" }
+    ]
+  },
+  "stats": [
+    { "icon": "📋", "value": "10,000+", "label": "Portfolios Completed" },
+    { "icon": "⭐", "value": "4.8/5", "label": "Average Rating" },
+    { "icon": "📅", "value": "97%", "label": "On-Time Delivery" },
+    { "icon": "🏆", "value": "16+", "label": "Years Experience" }
+  ],
+  "about": {
+    "sectionId": "about",
+    "heading": "Why Students Trust Our NVQ Assignment Help",
+    "paragraphs": [
+      "We specialise exclusively in NVQ portfolio evidence, with a dedicated team of writers who have direct experience helping candidates succeed across City & Guilds, Pearson, NCFE, and CACHE qualifications at every level.",
+      "Every writer on our team understands the NVQ competency-based framework — what counts as sufficient evidence, how to structure reflective accounts that meet performance criteria, and how to brief witnesses effectively."
+    ],
+    "highlights": [
+      "NVQ-specialist writers with direct assessor knowledge",
+      "Unit-by-unit performance criteria alignment",
+      "Evidence mapped to ASCR principles (Authentic, Sufficient, Current, Relevant)",
+      "City & Guilds, Pearson, NCFE, and CACHE qualifications covered"
+    ],
+    "imagePlaceholderAlt": "NVQ Assignment Help — trusted by 10,000+ candidates"
+  },
+  "qualifications": {
+    "sectionId": "services",
+    "heading": "NVQ Qualifications We Cover",
+    "subheading": "Expert support across all NVQ pathways — Level 1 to Level 5, all subjects.",
+    "cards": [
+      {
+        "icon": "🎓",
+        "title": "NVQ Assignment Help",
+        "description": "Portfolio evidence, reflective accounts, and competency statements for NVQ candidates at any level or subject — structured to meet assessor requirements.",
+        "href": "/nvq-assignment-help"
+      },
+      {
+        "icon": "📋",
+        "title": "NVQ Portfolio Evidence Help",
+        "description": "Guidance on what counts as valid evidence, how much is sufficient, and how to organise your portfolio so every performance criterion is evidenced.",
+        "href": "/nvq-portfolio-evidence-help"
+      },
+      {
+        "icon": "🪞",
+        "title": "NVQ Reflective Account Writing Help",
+        "description": "Structured reflective accounts written to the correct depth, format, and performance criteria — the evidence type assessors most frequently query.",
+        "href": "/nvq-reflective-account-writing-help"
+      },
+      {
+        "icon": "🏥",
+        "title": "NVQ Health and Social Care Help",
+        "description": "Specialist support for care workers and healthcare assistants enrolled in NVQ Level 2 or Level 3 in Health and Social Care.",
+        "href": "/nvq-health-and-social-care-assignment-help"
+      },
+      {
+        "icon": "📗",
+        "title": "NVQ Personal Statement Help",
+        "description": "Professional personal statements that demonstrate competency clearly and compellingly — written to the standard assessors expect.",
+        "href": "/nvq-personal-statement-writing-help"
+      },
+      {
+        "icon": "📄",
+        "title": "NVQ Witness Testimony Guide",
+        "description": "How to brief witnesses, structure testimony statements, and use third-party evidence to strengthen your portfolio.",
+        "href": "/nvq-witness-testimony-guide"
+      }
+    ]
+  },
+  "features": {
+    "heading": "What's Included in Every Order",
+    "cards": [
+      {
+        "icon": "📝",
+        "title": "Custom Written Content",
+        "description": "Every piece is written from scratch to your unit outcomes, performance criteria, and assessor guidance."
+      },
+      {
+        "icon": "🔍",
+        "title": "Plagiarism Report",
+        "description": "Turnitin originality report included with every submission."
+      },
+      {
+        "icon": "📚",
+        "title": "Performance Criteria Mapping",
+        "description": "Evidence explicitly mapped to each performance criterion and knowledge requirement."
+      },
+      {
+        "icon": "✏️",
+        "title": "Unlimited Revisions",
+        "description": "Not satisfied? We revise until the work meets your assessor's expectations."
+      },
+      {
+        "icon": "🔒",
+        "title": "Strict Confidentiality",
+        "description": "Your identity and order details are never shared with third parties."
+      },
+      {
+        "icon": "⚡",
+        "title": "Express Delivery",
+        "description": "Need it fast? We offer 24-hour turnaround for urgent portfolio deadlines."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us Over Others",
+    "items": [
+      {
+        "icon": "🎯",
+        "title": "NVQ Specialists",
+        "description": "Unlike generic essay services, we focus exclusively on NVQ competency-based assessments and portfolio evidence."
+      },
+      {
+        "icon": "👨‍🏫",
+        "title": "Qualified Writers",
+        "description": "All writers hold NVQ qualifications and have direct experience with City & Guilds, Pearson, and NCFE assessments."
+      },
+      {
+        "icon": "💬",
+        "title": "Direct Communication",
+        "description": "Message your writer directly via our platform throughout the project."
+      },
+      {
+        "icon": "💰",
+        "title": "Transparent Pricing",
+        "description": "Fixed prices published upfront. No hidden fees, ever."
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "What Our Students Say",
+    "items": [
+      {
+        "stars": 5,
+        "quote": "My portfolio was returned by my assessor with zero queries. The reflective accounts were perfectly structured and mapped to every performance criterion.",
+        "name": "Donna H.",
+        "course": "NVQ Level 3 Health and Social Care"
+      },
+      {
+        "stars": 5,
+        "quote": "I'd been stuck on my witness testimony section for months. The guidance was clear, practical, and my assessor accepted it first time.",
+        "name": "Marcus T.",
+        "course": "NVQ Level 2 Business Administration"
+      },
+      {
+        "stars": 5,
+        "quote": "The personal statement help was exceptional. It clearly demonstrated my competency and my assessor commented on how well it aligned with the criteria.",
+        "name": "Priya L.",
+        "course": "NVQ Level 4 Management"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionId": "how-it-works",
+    "heading": "How It Works",
+    "subheading": "Four simple steps from brief to assessor-approved portfolio evidence.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Submit Your Brief",
+        "description": "Share your NVQ unit, performance criteria, word count, deadline, and any guidance from your assessor."
+      },
+      {
+        "number": "02",
+        "title": "Get Matched",
+        "description": "We assign your order to a specialist NVQ writer within 30 minutes."
+      },
+      {
+        "number": "03",
+        "title": "Track Progress",
+        "description": "Monitor your evidence in real-time and message your writer directly."
+      },
+      {
+        "number": "04",
+        "title": "Download & Submit",
+        "description": "Receive your completed, plagiarism-checked evidence before your deadline."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is this service specific to NVQ qualifications?",
+        "answer": "Yes. We specialise exclusively in NVQ portfolio evidence across City & Guilds, Pearson, NCFE, and CACHE qualifications. Our writers are selected for their knowledge of NVQ competency frameworks, not generic academic writing."
+      },
+      {
+        "question": "Will my evidence be plagiarism free?",
+        "answer": "Every piece of evidence is written from scratch and run through Turnitin before delivery. You receive a copy of the originality report alongside your completed work."
+      },
+      {
+        "question": "How quickly can you complete my portfolio evidence?",
+        "answer": "Standard turnaround is 5–7 days. For urgent orders we offer 24-hour and 48-hour expedited delivery at an additional cost. Contact us to confirm availability for your deadline."
+      },
+      {
+        "question": "What if I'm not happy with the work?",
+        "answer": "We offer unlimited free revisions within 14 days of delivery. If we cannot meet your requirements after multiple revisions, we offer a full refund — no questions asked."
+      },
+      {
+        "question": "Is my information kept confidential?",
+        "answer": "Absolutely. We never share your personal information or order details with any third party. Payments are processed through secure, encrypted channels."
+      },
+      {
+        "question": "What counts as valid NVQ portfolio evidence?",
+        "answer": "Valid NVQ evidence includes: observation records, witness testimonies, product evidence, professional discussion records, reflective accounts, and third-party reports. Evidence must be authentic, current, sufficient, and relevant to each unit competency."
+      },
+      {
+        "question": "Can I use witness testimony as portfolio evidence?",
+        "answer": "Yes. Witness testimony from a line manager, supervisor, or qualified colleague is a recognised form of NVQ evidence. Our team advises on how to brief witnesses and structure testimonies that meet assessor requirements."
+      },
+      {
+        "question": "Which NVQ levels and qualifications do you support?",
+        "answer": "We support Level 1 to Level 5 across all City & Guilds, Pearson, NCFE, and CACHE qualification pathways — including Health and Social Care, Business Administration, Management, Childcare, Customer Service, and more."
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "text": "To make NVQ portfolio completion achievable for every working professional — providing clear, competency-aligned evidence writing guidance that demonstrates real workplace skills."
+  },
+  "finalCta": {
+    "heading": "Ready to Complete Your NVQ Portfolio?",
+    "subtext": "Join 10,000+ NVQ candidates who've successfully completed their portfolios with our expert evidence writing support.",
+    "button": {
+      "label": "Start Your Order Today",
+      "href": "#contact"
+    }
+  },
+  "footer": {
+    "logoText": "NVQ Help",
+    "description": "The UK's largest NVQ portfolio evidence specialist. Trusted by 10,000+ candidates across all levels and subjects.",
+    "columns": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          { "label": "Services", "href": "#services" },
+          { "label": "About Us", "href": "#about" },
+          { "label": "How It Works", "href": "#how-it-works" },
+          { "label": "FAQ", "href": "#faq" }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "links": [
+          { "label": "support@nvq-assignment-help.co.uk", "href": "mailto:support@nvq-assignment-help.co.uk" },
+          { "label": "WhatsApp Us", "href": "https://wa.me/447916696894" }
+        ]
+      }
+    ],
+    "copyright": "© 2025 NVQ Assignment Help. All rights reserved."
+  }
+}
